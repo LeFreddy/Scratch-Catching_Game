@@ -3,3 +3,5 @@ This is a school project that I am now putting on GitHub. It is meant to be an h
 
 Have fun with my project,
 Freddy
+
+Use only for educational purposes!
